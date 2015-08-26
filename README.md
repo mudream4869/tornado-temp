@@ -3,6 +3,10 @@ A template to start a normal tornado web server.
 
 ## Need
 
+### Security
+
+* Modify `config.py => secure_cookie`
+
 ### Python Library
 
 * python-memcached
